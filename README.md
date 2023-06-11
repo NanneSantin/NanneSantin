@@ -27,7 +27,8 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 - Trilha de HTML da DIO: Estou realizando a formação em HTML ofertada pela DIO e durante a formação é proposto 03 desafios:
   - [Desafio 1](https://github.com/NanneSantin/trilha-html-modulo-1.git)
   - [Desafio 2](https://github.com/NanneSantin/trilha-html-modulo-2.git)
-  - Desafio 3 - ainda não iniciado.
+  - [Desafio 3](https://github.com/NanneSantin/trilha-html-modulo-3.git)
+  - Iniciando Formação CSS Web Developer.
 
 Embora sejam projetos em estágio inicial, estou dedicado(a) a aprimorá-los e compartilhar meus progressos no decorrer do meu aprendizado.
 
