@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
   - [Desafio 3](https://github.com/NanneSantin/trilha-html-modulo-3.git)
   - Iniciando Formação CSS Web Developer.
 
-Embora sejam projetos em estágio inicial, estou dedicado(a) a aprimorá-los e compartilhar meus progressos no decorrer do meu aprendizado.
+Embora sejam projetos em estágio inicial, estou dedicada a aprimorá-los e compartilhar meus progressos no decorrer do meu aprendizado.
 
 ## 🌱 Interesses
 
