@@ -14,21 +14,24 @@ Olá, sou a Nanne, uma entusiasta da tecnologia embarcando em uma empolgante tra
 
 Embora esteja no início da minha jornada, estou estudando e me familiarizando com as seguintes tecnologias:
 
-- Linguagens de Programação: Atualmente, estou estudando e aprimorando minhas habilidades em linguagens como Java e JavaScript. Também estou estudando HTML e CSS, que são linguagens de marcação e estilo, e são fundamentais para o desenvolvimento web.
+- Linguagens de Programação: Atualmente, estou estudando e aprimorando minhas habilidades em JavaScript, através do curso de Desenvolvimento de Software com foco em Back-end da Cubos Academy em parceria com a iFood. Também estou estudando HTML e CSS, que são linguagens de marcação e estilo, e são fundamentais para o desenvolvimento web.
 - Ferramentas: Estou explorando e me familiarizando com ferramentas importantes para o desenvolvimento de software como o Visual Studio Code (VSCode), o IntelliJ IDEA e o Eclipse.
 - Conceitos: No meu caminho de aprendizado, estou me concentrando em conceitos teóricos fundamentais, como lógica de programação, estruturas de dados, algoritmos e programação orientada a objetos. Além disso, estou estudando conceitos específicos da web, como o modelo de caixa do CSS e a semântica HTML.
-
-Estou entusiasmado(a) em expandir esse conjunto de habilidades e aprender novas tecnologias no decorrer da minha jornada.
 
 ## 🔭 Projetos Destacados
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
-- Trilha de HTML da DIO: Estou realizando a formação em HTML ofertada pela DIO e durante a formação é proposto 03 desafios:
+- Trilha de HTML da DIO: formação em HTML ofertada pela DIO, durante a formação é proposto 03 desafios:
   - [Desafio 1](https://github.com/NanneSantin/trilha-html-modulo-1.git)
   - [Desafio 2](https://github.com/NanneSantin/trilha-html-modulo-2.git)
   - [Desafio 3](https://github.com/NanneSantin/trilha-html-modulo-3.git)
-  - Iniciando Formação CSS Web Developer.
+- Formação CSS Web Developer: formação em CSS ofertada pela DIO, durante a formação é proposto 05 desafios:
+  - [Desafio 1](https://github.com/NanneSantin/trilha-css-desafio-01.git)
+  - Desafio 2 - em elaboração
+  - Desafio 3 - aguardando.
+  - Desafio 4 - aguardando.
+  - Desafio 5 - aguardando.
 
 Embora sejam projetos em estágio inicial, estou dedicada a aprimorá-los e compartilhar meus progressos no decorrer do meu aprendizado.
 
@@ -46,7 +49,8 @@ Além do meu interesse em tecnologia e programação, tenho também um forte int
 Gostaria de trocar ideias, receber feedback ou simplesmente bater um papo? Sinta-se à vontade para entrar em contato comigo:
 
 - E-mail: elaine.s.santin@gmail.com
-- LinkedIn: [Clique Aqui](https://www.linkedin.com/in/elaine-stefani/)
+- [LinkedIn](https://www.linkedin.com/in/elaine-stefani/)
+- [Instagram](https://www.instagram.com/nannesantin/)
 
 Estou ansiosa para estabelecer conexões com outros entusiastas da tecnologia e profissionais experientes. Se você tiver dicas, sugestões de estudo ou até mesmo oportunidades de colaboração, não hesite em entrar em contato!
 
