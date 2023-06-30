@@ -64,7 +64,15 @@ Olá, sou a Nanne, uma entusiasta da tecnologia embarcando em uma empolgante tra
 </div>
 
 Estou animada com a minha transição de carreira e pronta para enfrentar os desafios e as oportunidades que a tecnologia tem a oferecer. Se você também está embarcando nessa jornada ou é um profissional experiente disposto a compartilhar conhecimento, vamos nos conectar e crescer juntos!
+<br>
+
+<i>I'm excited about my career transition and ready to embrace the challenges and opportunities that technology has to offer. Whether you're also embarking on this journey or an experienced professional willing to share knowledge, let's connect and grow together! </i>
 
 ⭐️ Não esqueça de acompanhar meus projetos e deixar uma estrela nos que você achar interessantes. Sua apreciação e apoio são muito valiosos para mim!
+<br>
 
-Obrigada por visitar o meu GitHub. Espero que você encontre inspiração, recursos úteis e uma visão do meu crescimento como desenvolvedora. Juntos, podemos construir um futuro tecnológico brilhante! 😄
+<i> Don't forget to follow my projects and give a star to the ones you find interesting. Your appreciation and support mean a lot to me! </i>
+
+Obrigada por visitar o meu GitHub. Espero que você encontre inspiração, recursos úteis e uma visão do meu crescimento como desenvolvedora. Juntos, podemos construir um futuro tecnológico brilhante! 😄<br>
+
+<i>Thank you for visiting my GitHub. I hope you find inspiration, useful resources, and a glimpse into my growth as a developer. Together, we can build a bright technological future! </i>
