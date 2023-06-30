@@ -48,10 +48,10 @@ Olá, sou a Nanne, uma entusiasta da tecnologia embarcando em uma empolgante tra
 ## 💻 Status GitHub / My GitHub Stats
 
 <a href="https://github.com/NanneSantin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NanneSantin&theme=jolly" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NanneSantin&theme=jolly" />
 </a>
 <a href="https://github.com/NanneSantin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NanneSantin&layout=compact&langs_count=8&card_width=320&theme=jolly" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NanneSantin&layout=compact&langs_count=8&card_width=320&theme=jolly" />
 </a>
 
 <br><br>
